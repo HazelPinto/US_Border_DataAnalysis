@@ -27,7 +27,7 @@ Before using this notebook, ensure you have the following:
 1. **Clone the Repository**: Clone or download this repository to your local machine.
 
     ```bash
-    git clone https://github.com/yourusername/us-borders-data-analysis.git
+    git clone https://github.com/HazelPinto/Exploratory_Analysis.git
     ```
 
 2. **Navigate to the Directory**: Open a terminal and go to the directory where you cloned the repository.
